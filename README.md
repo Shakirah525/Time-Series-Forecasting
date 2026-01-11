@@ -50,3 +50,4 @@ After rigorous testing on the March 2014 "hold-out" set, the results were as fol
 1. Clone this repository.
 2. Install dependencies: `pip install -r requirements.txt`
 3. Open the notebooks in Google Colab and ensure your Google Drive is mounted to access the `guayas_prepared.csv` file.
+https://youtu.be/k4P-xW1UgUw
